@@ -67,3 +67,29 @@ In your opinion, what are the most important commands and arguments to know?
 
 -help - will help you find all the commands available
 
+#1.4 Forking and cloning 
+
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be?
+
+Go to your Homepage on GitHub
+Click on Create New Button
+Click on Create New Repo
+For Forking a Repo 
+Go to the Git you want to Fork 
+Click on Fork and then select your profile when the prompt comes up
+Cloning a Repo you copy the Https Clone url 
+Go to your Terminal Command Line
+Go to the approriate folder you want to clone it into 
+Type in 'git clone' and then the url after that 
+Then the Files will be cloned into the folder 
+ 
+
+Why would you fork a repository as opposed to create a new one?
+
+So you can branch off the master copy and make changes that won't affect the master file. You can experiment on your own without messing up the code. 
+
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+
+I didn't have any troubles setting up git or GitHub
+
+I learned a lot about the command line and how much faster you manipulate the file system. Git and Github work hand in hand with making sure all the versions of your copy are accounted for yet it is very easy to go back and change and collaborate with many people at once. 
