@@ -71,17 +71,17 @@ In your opinion, what are the most important commands and arguments to know?
 
 If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be?
 
-Go to your Homepage on GitHub
-Click on Create New Button
-Click on Create New Repo
-For Forking a Repo 
-Go to the Git you want to Fork 
-Click on Fork and then select your profile when the prompt comes up
-Cloning a Repo you copy the Https Clone url 
-Go to your Terminal Command Line
-Go to the approriate folder you want to clone it into 
-Type in 'git clone' and then the url after that 
-Then the Files will be cloned into the folder 
+  Go to your Homepage on GitHub
+  Click on Create New Button
+  Click on Create New Repo
+  For Forking a Repo 
+  Go to the Git you want to Fork 
+  Click on Fork and then select your profile when the prompt comes up
+  Cloning a Repo you copy the Https Clone url 
+  Go to your Terminal Command Line
+  Go to the approriate folder you want to clone it into 
+  Type in 'git clone' and then the url after that 
+  Then the Files will be cloned into the folder 
  
 
 Why would you fork a repository as opposed to create a new one?
