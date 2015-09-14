@@ -3,21 +3,28 @@
 Which time management and productivity ideas did you learn about?
 
   Learned about Meditation and how to be in a mindful state. Learning how to focus on different types of things so you can react to your surroundings in a meaningful way. Try to take small steps to your goals. Be able to tackle those smaller goals to achieve bigger ones.Gain confidence by reaching goals by doing them a little bit everyday. Be about your goals don't just talk about them. Learn how to use time in a more productive manner, use time slots to train yourself to achieve more.
+
 What is "Time Boxing?" How can you use it in Phase 0?
 
   Time Boxing is when you or your team selects a slot of time to get something done. It can be 25mins or 10mins. The goal of this is to get something done and for you to stop and look back how well you are utilizing your time.I will be using the Pomodoro method to set small goals and working on them in short bursts. Then I can reflect back and see where adjustments can be made and which topics I need to master.
+
 How do you manage your time currently?
 
   Currently I just make a list of things that need to be done and get them done.
+
 Is your current strategy working? If not, why not?
 
   I think it works ok, however there are no specifics set so time management wise it doesn't work too well.
+
 Can/will you employ any of them? If so, how?
 
   Yes, I will be employing the Pomodoro method and the meditation in the morning. I will most likely make my own custom time box solution that works for me.
+
 What is your overall plan for Phase 0 time management?
 
   Have time slots throughout the day and complete the tasks in that manner. Not only for Phase 0 but for all the things that I need to get done daily. Use the modules and allocate appropriate times for each assignment.
+
+
 #1.2 The Command Line
 What is a shell?
 
