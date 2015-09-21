@@ -28,5 +28,5 @@ Which parts of the challenge did you enjoy and which parts did you find tedious?
 
 
 
-![Alt text](/blog/img/wire-frame-blog.png)
-![Alt text](/blog/img/Wire-frame.png)
+![Alt text](Parmindersingh23/Parmindersingh23.github.io/blob/master/blog/img/Wire-frame.png)
+
