@@ -16,5 +16,5 @@ Which parts of the challenge did you enjoy and which parts did you find tedious?
 
 
 
-![Alt text](/week-2/imgs/wire-frame-blog.png)
-![Alt text](/week-2/imgs/Wire-frame.png)
+![Alt text](/blog/imgs/wire-frame-blog.png)
+![Alt text](/blog/imgs/Wire-frame.png)
