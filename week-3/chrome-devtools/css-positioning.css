@@ -1,0 +1,130 @@
+
+/*Note: There are three different ways to add background colors here.
+You can add them using a name (for common names), Hex, or RGB values.
+*/
+
+body {
+  background-color: black;
+}
+
+#div-1 {
+  background-color: whitesmoke;
+  margin-top: 20px; top: 0px;
+  left: 0px;
+  width: 100px;
+  height: 200px;
+
+}
+#div-2 {
+  background-color: red;
+  position: relative;
+  top: 0px;
+  left: 100px;
+  width: 100px;
+  height: 200px;
+}
+#div-3 {
+  background-color: whitesmoke;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  height: 200px;
+}
+#div-4 {
+  background-color: red
+  ;
+  width: 300px;
+  position: relative;
+  top: 0px;
+  left: 100px;
+  width: 100px;
+  height: 200px;
+
+}
+#div-5 {
+  background-color: whitesmoke;
+  position: relative;
+  top: -800px;
+  left: 200px;
+  width: 100px;
+  height: 200px;
+}
+
+#div-6 {
+  background-color: whitesmoke;
+  position: relative;
+  top: -600px;
+  left: 200px;
+  width: 100px;
+  height: 200px;
+}
+#div-7 {
+  background-color: red;
+  position: relative;
+  top: -1000px;
+  left: 300px;
+  width: 100px;
+  height: 200px;
+}
+#div-8 {
+  background-color: whitesmoke
+  ;
+  width: 300px;
+  position: relative;
+  top: -1000px;
+  left: 400px;
+  width: 100px;
+  height: 200px;
+
+}
+#div-9 {
+  background-color: red
+
+  ;
+  width: 300px;
+  position: relative;
+  top: -1000px;
+  left: 300px;
+  width: 100px;
+  height: 200px;
+
+}
+#div-10 {
+  background-color: whitesmoke
+
+  ;
+  width: 300px;
+  position: relative;
+  top: -1800px;
+  left: 400px;
+  width: 100px;
+  height: 200px;
+
+}
+#div-11 {
+  background-color: red
+
+  ;
+  width: 300px;
+  position: relative;
+  top: -1800px;
+  left: 500px;
+  width: 100px;
+  height: 200px;
+
+}
+#div-12 {
+  background-color: red
+
+  ;
+  width: 300px;
+  position: relative;
+  top: -1600px;
+  left: 500px;
+  width: 100px;
+  height: 200px;
+
+}
+
+
