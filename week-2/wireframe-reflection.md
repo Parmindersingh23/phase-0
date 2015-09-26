@@ -1,6 +1,7 @@
 
 What is a wireframe?
    A wireframe helps with designing a site. You can get a better sense of where all the contant will go and how HTML will be used to build the site.
+
 What are the benefits of wireframing?
   The benefits are that you have some sort of site plan and draft of the website. It is better to see what you will be making rather than just coding directly from you mind.
 Did you enjoy wireframing your site?
@@ -11,10 +12,14 @@ What questions did you ask during this challenge?
   Not many, but how complex should we be making the wireframes?
 What resources did you find to help you answer them?
   I asked around and then I read the articles that were attached with the assignment.
+
 Which parts of the challenge did you enjoy and which parts did you find tedious?
   I liked designing the site, but I felt limited since I don't HTML fully. The tedious part was the uplaoding and making sure all the pile paths to display were correct.
 
 
 
-![Alt text](/week-2/imgs/wire-frame-blog.png)
-![Alt text](/week-2/imgs/Wire-frame.png)
+
+![Alt text](/week-2/img/Wire-frame.png)!
+![Alt text](/week-2/img/wire-frame-blog.png)!
+
+

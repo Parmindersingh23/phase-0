@@ -33,4 +33,6 @@ Which parts of the challenge did you find tedious?
 
 The biggest part of the challenges I find tedious is uploading the files to github.
 
-![Alt text](/week-2/imgs/site-map.png)
+
+![Alt text](/week-2/img/site-map.png)
+
