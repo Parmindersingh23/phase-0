@@ -1,5 +1,5 @@
-![Screenshot1](week-3/chrome-devtools/imgs/Screen Shot 3.4-1.png)
-![Screenshot2](week-3/chrome-devtools/imgs/Screen Shot 3.4-2.png)
+![Screenshot1](week-3/chrome-devtools/imgs/Screen Shot 3.4-1.png)!
+[Screenshot2](week-3/chrome-devtools/imgs/Screen Shot 3.4-2.png)
 ![Screenshot3](week-3/chrome-devtools/imgs/Screen Shot 3.4-3.png)
 ![Screenshot4](week-3/chrome-devtools/imgs/Screen Shot 3.4-4.png)
 ![Screenshot5](week-3/chrome-devtools/imgs/Screen Shot 3.4-5.png)
