@@ -54,5 +54,14 @@ Local variables are used in the method it is defined in. Use them for methods th
 
 Chanllenge wasn't too hard and it was a good refresher of the basics.
 
-Links to challenges :
+#Links to challenges :
+
+https://github.com/Parmindersingh23/phase-0/blob/master/week-4/basic-math.rb
+
+https://github.com/Parmindersingh23/phase-0/blob/master/week-4/defining-variables.rb
+
+https://github.com/Parmindersingh23/phase-0/blob/master/week-4/simple-string.rb
+
+
+
 
