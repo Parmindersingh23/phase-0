@@ -129,11 +129,11 @@ end
 # Identify and describe the Ruby method(s) you implemented.
 #a.delete_if {|x| x >= "b" }   #=> ["a"]
 # .delete_if => deletes every element of self which block evaluates to true.
-# .to_s => this converts an object to a string
-# .include? => this checks each object and returns true if the parameters given
+# .to_s => object to a string
+# .include? => checks each object and returns true if condition true
 # Teach your accountability group how to use the methods:
 # You want to use the delete_if methods when you are checking for
-# selective entries in an if statement. delete_if is like an if statement that will check for a key and value to delete.
+# selective entries in an if statement. delete_if is like an if statement that will check for a key and value to delete what you need.
 
 #Person 5
 
