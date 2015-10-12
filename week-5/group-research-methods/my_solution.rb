@@ -135,6 +135,7 @@ end
 # You want to use the delete_if methods when you are checking for
 # selective entries in an if statement. delete_if is like an if statement that will check for a key and value to delete.
 
+#Person 5
 
 def my_array_splitting_method(source)
   # first create an output array, with 2 more arrays in it - one for integers and one for other
@@ -173,7 +174,4 @@ end
 
 # Release 3: Reflect!
 # What did you learn about researching and explaining your research to others?
-#
-#
-#
-#
+#It helped me better understand on how to look up methods in the ruby docs.
