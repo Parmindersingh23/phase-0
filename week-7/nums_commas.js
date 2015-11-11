@@ -14,12 +14,15 @@
 
 // Initial Solution
 
-var separateComma = function (comma) {
+var separateComma = function(comma) {
 var array = num.toString().split('');
 for (var index = 0; index < comma.length -3;)
-}
 
+ return array.join('');
 
+};
+
+separateComma(182109)
 
 // Refactored Solution
 
