@@ -56,9 +56,17 @@ adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 //
+//What tests did you have trouble passing? What did you do to make it pass? Why did that work?
 //
+//I didn't really have any trouble passing any tests.
 //
+//How difficult was it to add and delete properties outside of the object itself?
 //
+//It wasnt too hard as long as you knew how to add new properties outside the object.
+//
+//What did you learn about manipulating objects in this challenge?
+//
+//I learned how to change properties outside the orginal object and also how to add new variablies like the children.
 //
 //
 
