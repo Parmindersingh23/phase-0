@@ -37,17 +37,12 @@ output string
 // separateComma(1239)
 
 // Refactored Solution
-// Not too much to refactor on this code!
+// This works in the Browser for me but my partner said it would work in Terminal also but it is not on my side for some reason.
 
 var separateComma = function(comma) {
-  comma = comma.toString().split('').reverse();
-  for (var i = 0; i < comma.length ; i +=4 ) {
-    comma.splice(i + 3, 0, ",");
-  }
-  comma.pop();
-  comma = comma.reverse().join('');
-  console.log(comma)
-};
+  console.log(comma.toLocaleString());
+}
+
 separateComma(1569743)
 separateComma(12345678)
 separateComma(1239)
