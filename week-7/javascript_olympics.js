@@ -1,26 +1,22 @@
 // JavaScript Olympics
 
-// I paired [by myself, with:] on this challenge.
+// I paired [by myself, with:Dan Andersen] on this challenge.
 
-// This challenge took me [2] hours.
-
-
-// Warm Up
-
-
-
+// This challenge took me [1] hours.
 
 // Bulk Up
 
-var KobeBryant = {name: "Kobe", sport: "Basketball"}
-var MichaelJordan ={name: "Michael",sport: "Basketball"}
-
-function (won)
-return {this.name + "won" + this.sport + "!"}
+var Athlete = {name: "Sarah", event: "Singles"};
 
 
-console.log(KobeBryant.won);
-console.log(MichaelJordan.won);
+ function win(object) {
+  return object.name + " won the " + object.event + "!"
+ }
+
+
+ console.log(win(Athlete));
+
+
 
 
 // Jumble your words
@@ -29,29 +25,25 @@ function reverseString (string)
 {return string.split('').reverse().join('');}
 
 
-  console.log(reverseString("Hello"))
+  console.log(reverseString("Hello"));
 
 
 
 
 // 2,4,6,8
+ var evens = [];
 
-function evenNumbers(value)
+function evenNumbers(array) {
 
-{if (value % 2 == 0);
-  alert ('is even');
-}
-else
-{
-alert('is odd');
-}
+  var i = 0;
+  for (i = 0; i < array.length; i++) {
+     if (array[i] % 2 == 0)
+  evens.push(array[i])
+  }
+  return evens;
+ }
+console.log(evenNumbers([2,4,1,6,9,7]));
 
-console.log(evenNumbers(4,6))
-
-/*
-#I keep getting an error and I have no idea why. I think it is my if/else
-condtion that is messing things up.
-*/
 
 // "We built this city"
 
@@ -60,9 +52,6 @@ function Athlete(name, age, sport, quote){
   this.age = age
   this.sport = sport
   this.quote= quote
-
-
-
 }
 
 
@@ -78,7 +67,10 @@ console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps
 /* Reflection
 What JavaScript knowledge did you solidify in this challenge? I solidfied my knowledge in creating simple functions and variables within objects and arrays.
 What are constructor functions?
-They are like instance methods in Ruby.
+
+Constructor function type notation is preferred if you need to do some initial work before the object is created or require multiple instances of the object where each instance can be changed during the lifetime of the script.
+
 How are constructors different from Ruby classes (in your research)?
-The constructors create the objects unlike ruby where you create class and make the on your own.
+
+The constructors create the objects unlike ruby where you create class and make them on your own.
 */
