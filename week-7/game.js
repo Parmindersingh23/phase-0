@@ -22,14 +22,14 @@ posY: 0,
 //This is our moving function (Foward and Front)
 move: function(direction) {
   if(direction === 'forward'){
-    this.posX +=1;
+    player.posX +=10;
   }
   else if(direction === 'back'){
-    player.posX -=1;
+    player.posX -=10;
   }
 
 
-console.log("Player you are getting closer" + " " + (ball.posX()) + " " + ", Keep trying" + " (Players Position " + player.posX + "," + player.posY + ")");
+console.log("Player you are getting closer ," + " " + " Ball Position " + (ball.posX()) + " " + ", Keep trying" + " (Players Position " + player.posX );
 
 if(player.posX === ball.posX()){
   //console.log("You Win!")
@@ -41,7 +41,7 @@ if(player.posX === ball.posX()){
 //This is our ball, also randomizes the X positon.
 var ball = {
 posX: function(direction){
-  return Math.floor(Math.random()*5)
+  return Math.floor(Math.random()*50)
 }
 
 };
@@ -49,7 +49,10 @@ posX: function(direction){
 
 //Makes our player move forward or back.
 player.move('forward');
+player.move('forward');
 player.move('back');
+
+
 
 
 
